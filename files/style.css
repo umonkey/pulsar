@@ -1,0 +1,196 @@
+body {
+	background-color: #402122;
+	margin: 0;
+	padding: 0 0 10px;
+	color: #eee;
+	font-size: 10pt;
+	font-family: Verdana, sans-serif;
+}
+
+a {
+	color: #ccc;
+}
+
+h1 {
+	position: absolute;
+	left: 450px;
+	top: 90px;
+	margin: 0;
+	padding: 0;
+}
+h1 a {
+	display: block;
+	width: 228px;
+	height: 35px;
+	background: transparent url(/files/images/logo.png) no-repeat top left;
+}
+h1 span {
+	display: none;
+}
+
+#box {
+	position: relative;
+	width: 800px;
+	margin: 0 auto;
+	min-height: 100px;
+}
+
+#content {
+	position: absolute;
+	left: 364px;
+	top: 128px;
+	width: 400px;
+	/* -- временно отключил
+	   -- значение было другое, найти в истории можно
+	height: 600px;
+	*/
+	min-height: 440px;
+	border: solid 10px #cccccc;
+	padding: 10px;
+	margin: 0;
+	overflow: auto;
+	background: #402122 url(/files/images/background.jpg) repeat-y top left;
+}
+
+#content h2 {
+	text-transform: lowercase;
+	padding: 0;
+	margin: 0;
+	font-size: 30pt;
+	font-weight: bold;
+	color: #aaa;
+}
+#content h2:after {
+	content: ' >';
+}
+#content h3 {
+	font-size: 1em;
+	margin: 1em 0 .25em;
+}
+
+
+#bgpic {
+	display: block;
+	/*
+	position: absolute;
+	top: 10px;
+	left: 0;
+	*/
+
+	position: fixed;
+	left: 50%;
+	margin-left: -400px;
+	top: 10px;
+
+	width: 450px;
+	height: 450px;
+	background-color: black;
+}
+
+
+#menu {
+	position: absolute;
+	top: 470px;
+	left: 274px;
+	text-align: right;
+	width: 90px;
+	font-size: 10pt;
+	text-transform: lowercase;
+}
+#menu ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#menu a {
+	display: block;
+	padding: 0 6px 0 2px;
+	text-decoration: none;
+}
+body.media #menu .media a,
+body.news #menu .news a,
+body.band #menu .band a,
+body.live #menu .live a,
+body.shop #menu .shop a,
+body.contact #menu .contact a,
+body.links #menu .links a,
+#menu a:hover {
+	background-color: #cccccc;
+	color: #402122;
+}
+
+
+body.news {
+	background-image: url(files/images/6.png);
+}
+
+
+body.media h3 {
+	text-transform: uppercase;
+}
+body.media a img {
+	width: 100px;
+	float: left;
+	margin: 0 10px 10px 0;
+}
+body.media ol {
+	clear: left;
+	margin-bottom: 3em;
+	padding-left: 2em;
+}
+body.media #content li {
+	font-size: 8pt;
+}
+body.media #content li a {
+	font-size: 10pt;
+	margin-right: 1em;
+}
+
+
+body.live #content ul {
+	margin: 1em 0 0;
+	padding: 0 0 0 1em;
+}
+body.live #content li {
+	margin-bottom: .5em;
+}
+
+
+body.news #bgpic {
+	background: transparent url(/files/images/news.jpg) no-repeat top left;
+}
+body.band #bgpic {
+	background: transparent url(/files/images/band.jpg) no-repeat top left;
+}
+body.live #bgpic {
+	background: transparent url(/files/images/live.jpg) no-repeat top left;
+}
+body.media #bgpic {
+	background: transparent url(/files/images/media.jpg) no-repeat top left;
+}
+body.shop #bgpic {
+	background: transparent url(/files/images/shop.jpg) no-repeat top left;
+}
+body.contact #bgpic {
+	background: transparent url(/files/images/contact.jpg) no-repeat top left;
+}
+body.links #bgpic {
+	background: transparent url(/files/images/links.jpg) no-repeat top left;
+}
+
+
+body.index #bgpic,
+body.index h1,
+body.index h2,
+body.index #menu {
+	display: none;
+}
+body.index #content {
+	border: none;
+	height: 100px;
+	min-height: 100px;
+	top: 232px;
+	left: 310px;
+	overflow: hidden;
+	background-image: none;
+}

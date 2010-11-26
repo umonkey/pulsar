@@ -11,6 +11,10 @@ a {
 	color: #ccc;
 }
 
+img {
+	border: none;
+}
+
 h1 {
 	position: absolute;
 	left: 450px;

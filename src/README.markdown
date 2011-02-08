@@ -2,7 +2,7 @@ This is a website for The-Pulsar, a Russian band playing electronic industrial
 music.  The website is static, generated using Poole.  [GitHub Pages][] make it
 work.  The web site is accessible at:
 
-- [pulsar.deadchannel.ru](http://pulsar.deadchannel.ru/) (temporary)
+- [www.the-pulsar.com](http://www.the-pulsar.com/)
 
 
 Updating

@@ -1,4 +1,4 @@
-all: build commit
+all: build
 
 build:
 	python poole.py --build # --base-url=http://www.the-pulsar.com/
@@ -9,7 +9,4 @@ update: build
 	-git push
 
 serve:
-	poole.py --serve
-
-serve:
-	python poole.py serve
+	python poole.py --serve

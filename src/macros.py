@@ -147,7 +147,7 @@ def once_sitemap():
             url = BASE_URL + '/' + url
             urls.append(_SITEMAP_URL % (url, date,
                 p.get("changefreq", "monthly"), p.get("priority", "0.8")))
-    fname = os.path.join(options.project, "output", "sitemap.xml")
+    fname = os.path.join(options.project, "..", "sitemap.xml")
     fp = open(fname, 'w')
     fp.write(_SITEMAP % "".join(urls))
     fp.close()
@@ -252,11 +252,9 @@ def mktoc(text):
     return text
 
 def hook_postconvert_rss():
-    write_rss(pages, u'Urban Monkey', u'Personal home page updates.')
+    write_rss(pages, u'The-Pulsar', u'Web Site updates.')
     for label in get_label_stats(pages).keys():
-        write_rss(pages, u'Urban Monkey: ' + label, u'Записи из блога Urban Monkey с пометкой «%s».' % label, label)
-	# FeedBurner сообщает о двух подписчиках, пусть полежит.
-    os.symlink("rss.xml", os.path.join(output, "rss"))
+        write_rss(pages, u'The-Pulsar: ' + label, u'Новости The-Pulsar с пометкой «%s».' % label, label)
 
 def embed(page):
     if 'file' in page and page.file.endswith('.mp3'):
@@ -275,7 +273,7 @@ def comments(page):
     return ''
 
 def title(page):
-    t = 'Urban Monkey Workfare'
+    t = 'The-Pulsar'
     if 'post' in page and 'file' in page:
         t = '<a href="/podcast.html">' + t + ' podcast</a>'
     elif 'post' in page:

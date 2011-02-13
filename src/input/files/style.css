@@ -198,3 +198,13 @@ body.index #content {
 	overflow: hidden;
 	background-image: none;
 }
+
+
+#player {
+	border: none;
+	width: 220px;
+	height: 220px;
+	position: absolute;
+	top: 600px;
+	left: 144px;
+}

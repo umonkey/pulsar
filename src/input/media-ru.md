@@ -6,7 +6,7 @@ menu-index: 4
 
 ### Never
 
-<a href="never.html"><img src="http://files.the-pulsar.com.s3.amazonaws.com/files/albums/05-never/cover-big.jpg" alt="Never!"/></a>
+<a href="never.html"><img src="http://files.the-pulsar.com/files/albums/05-never/cover-big.jpg" alt="Never!"/></a>
 
 ad-hun-23-cd  
 формат: CD  
@@ -26,7 +26,7 @@ ad-hun-23-cd
 
 ### Revolution (Reloaded)
 
-<a href="revolution-reloaded.html"><img src="http://files.the-pulsar.com.s3.amazonaws.com/files/albums/04-revolution-reloaded/cover-big.jpg" alt="Revolution (Reloaded)"/></a>
+<a href="revolution-reloaded.html"><img src="http://files.the-pulsar.com/files/albums/04-revolution-reloaded/cover-big.jpg" alt="Revolution (Reloaded)"/></a>
 
 ad-hun-15-cd  
 формат: CD  
@@ -45,7 +45,7 @@ ad-hun-15-cd
 
 ### Re-Wakening
 
-<a href="rewakening.html"><img src="http://files.the-pulsar.com.s3.amazonaws.com/files/albums/03-re-wakening/cover-big.jpg" alt="Re-Wakening"/></a>
+<a href="rewakening.html"><img src="http://files.the-pulsar.com/files/albums/03-re-wakening/cover-big.jpg" alt="Re-Wakening"/></a>
 
 ad-hun-05-ep  
 формат: CD EP  
@@ -66,7 +66,7 @@ ad-hun-05-ep
 
 ### Awakening
 
-<a href="awakening.html"><img src="http://files.the-pulsar.com.s3.amazonaws.com/files/albums/02-awakening/cover-big.jpg" alt="Awakening"/></a>
+<a href="awakening.html"><img src="http://files.the-pulsar.com/files/albums/02-awakening/cover-big.jpg" alt="Awakening"/></a>
 
 ad-05-cd  
 фомрат: CD  

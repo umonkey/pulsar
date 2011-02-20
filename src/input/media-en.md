@@ -6,7 +6,7 @@ menu-index: 4
 
 ### Never
 
-<a href="never.html"><img src="http://files.the-pulsar.com/albums/05-never/cover-big.jpg" alt="Never!"/></a>
+<a href="never.html"><img src="http://files.the-pulsar.com/pictures/cd/never-100.jpg" alt="Never!"/></a>
 
 ad-hun-23-cd  
 format: CD  
@@ -26,7 +26,7 @@ format: CD
 
 ### Revolution (Reloaded)
 
-<a href="revolution-reloaded.html"><img src="http://files.the-pulsar.com/albums/04-revolution-reloaded/cover-big.jpg" alt="Revolution (Reloaded)"/></a>
+<a href="revolution-reloaded.html"><img src="http://files.the-pulsar.com/pictures/cd/revolution-reloaded-100.jpg" alt="Revolution (Reloaded)"/></a>
 
 ad-hun-15-cd  
 format: CD  
@@ -45,7 +45,7 @@ format: CD
 
 ### Re-Wakening
 
-<a href="rewakening.html"><img src="http://files.the-pulsar.com/albums/03-re-wakening/cover-big.jpg" alt="Re-Wakening"/></a>
+<a href="rewakening.html"><img src="http://files.the-pulsar.com/pictures/cd/rewakening-100.jpg" alt="Re-Wakening"/></a>
 
 ad-hun-05-ep  
 format: CD EP  
@@ -66,7 +66,7 @@ format: CD EP
 
 ### Awakening
 
-<a href="awakening.html"><img src="http://files.the-pulsar.com/albums/02-awakening/cover-big.jpg" alt="Awakening"/></a>
+<a href="awakening.html"><img src="http://files.the-pulsar.com/pictures/cd/awakening-100.jpg" alt="Awakening"/></a>
 
 ad-05-cd  
 фомрат: CD  

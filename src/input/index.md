@@ -1,10 +1,7 @@
-title: the-pulsar.com
-labels: index
+title: The-Pulsar
+labels: dummy
 ---
+Оставьте свой email адрес, чтобы получать сообщения о новых альбомах, концертах
+и эксклюзивную музыку.
 
-<img src="/files/images/index.png" alt="index" usemap="#map"/>
-
-<map name="map">
-  <area shape="rect" coords="2,38,56,55" href="news-ru.html"/>
-  <area shape="rect" coords="8,55,56,72" href="news-en.html"/>
-</map>
+<form action="http://groups.google.com/group/the-pulsar-news/boxsubscribe"><div><input type="text" placeholder="Ваш email" name="email"/> <input type="submit" value="Подписаться"/></div></form></div></form>

@@ -1,7 +1,9 @@
 title: The-Pulsar
 labels: dummy
 ---
-Оставьте свой email адрес и мы сообщим вам о выходе нового альбома, предстоящих
-концертах и будем присылать эксклюзивную музыку.
+Leave your email address to be notified of new albums, upcoming concerts and
+receive links to exclusive material.
 
-<form action="http://groups.google.com/group/the-pulsar-news/boxsubscribe"><div><input type="text" placeholder="Ваш email" name="email"/> <input type="submit" value="Подписаться"/></div></form></div></form>
+<form action="http://groups.google.com/group/the-pulsar-news/boxsubscribe"><div><input type="text" placeholder="Your email address" name="email"/> <input type="submit" value="Подписаться"/></div></form>
+
+A better web site may be coming later.

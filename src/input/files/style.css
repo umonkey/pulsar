@@ -231,23 +231,24 @@ body.dummy #content {
 }
 body.dummy #player {
 	position: absolute;
-	top: 40px;
+	top: 0px;
 	left: 50%;
 	margin-left: -320px;
 }
 body.dummy #content {
 	left: 240px;
-	top: 173px;
+	top: 174px;
 	padding: 0;
 }
-body.dummy #content p {
+body.dummy #content p, body.dummy form {
 	margin-top: 0;
+	margin-bottom: 1em;
 }
 body.dummy #bgpic {
 	position: absolute;
 	background: transparent url(images/logo/logo-small.png) no-repeat top left;
 	width: 400px;
-	height: 153px;
+	height: 154px;
 	top: 0px;
 	left: 240px;
 	margin: 0;

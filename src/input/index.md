@@ -6,4 +6,6 @@ receive links to exclusive material.
 
 <form action="http://groups.google.com/group/the-pulsar-news/boxsubscribe"><div><input type="text" placeholder="Your email address" name="email"/> <input type="submit" value="Подписаться"/></div></form>
 
+Contact us at [info@the-pulsar.com](mailto:info@the-pulsar.com).
+
 A better web site may be coming later.
